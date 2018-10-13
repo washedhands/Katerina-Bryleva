@@ -1,0 +1,73 @@
+Source,Type,Target,Weight
+"Матрос",Undirected,"Партизаны",1
+"Матрос",Undirected,"Фурманов",2
+"Матрос",Undirected,"Чапаев",2
+"Матрос",Undirected,Башняк,2
+"Матрос",Undirected,Вихрастый парнишка,2
+"Матрос",Undirected,Герман,1
+"Матрос",Undirected,Парень,1
+"Матрос",Undirected,Таня,1
+"Матрос",Undirected,Шаманова,2
+"Партизаны",Undirected,"Фурманов",1
+"Партизаны",Undirected,"Чапаев",1
+"Партизаны",Undirected,Башняк,1
+"Партизаны",Undirected,Вихрастый парнишка,1
+"Партизаны",Undirected,Парень,1
+"Партизаны",Undirected,Шаманова,1
+"Фурманов",Undirected,"Чапаев",2
+"Фурманов",Undirected,Башняк,2
+"Фурманов",Undirected,Вихрастый парнишка,2
+"Фурманов",Undirected,Герман,1
+"Фурманов",Undirected,Парень,1
+"Фурманов",Undirected,Таня,1
+"Фурманов",Undirected,Шаманова,2
+"Чапаев",Undirected,Башняк,2
+"Чапаев",Undirected,Вихрастый парнишка,2
+"Чапаев",Undirected,Герман,1
+"Чапаев",Undirected,Парень,1
+"Чапаев",Undirected,Таня,1
+"Чапаев",Undirected,Шаманова,2
+Бабушка,Undirected,Грищенко,1
+Бабушка,Undirected,Доктор,1
+Бабушка,Undirected,Дуся,1
+Бабушка,Undirected,Таня,2
+Башняк,Undirected,Вихрастый парнишка,2
+Башняк,Undirected,Герман,1
+Башняк,Undirected,Парень,1
+Башняк,Undirected,Таня,1
+Башняк,Undirected,Шаманова,2
+Васин,Undirected,Герман,1
+Васин,Undirected,Игнатов,1
+Васин,Undirected,Таня,1
+Васин,Undirected,Хозяйка,1
+Вихрастый парнишка,Undirected,Герман,1
+Вихрастый парнишка,Undirected,Парень,1
+Вихрастый парнишка,Undirected,Таня,1
+Вихрастый парнишка,Undirected,Шаманова,2
+Герман,Undirected,Друзья Германа,1
+Герман,Undirected,Дуся,2
+Герман,Undirected,Игнатов,1
+Герман,Undirected,Михей,1
+Герман,Undirected,Таня,4
+Герман,Undirected,Хозяйка,1
+Герман,Undirected,Шаманова,3
+Грищенко,Undirected,Дуся,2
+Грищенко,Undirected,Оля,1
+Грищенко,Undirected,Таня,2
+Доктор,Undirected,Таня,1
+Друзья Германа,Undirected,Дуся,1
+Друзья Германа,Undirected,Михей,1
+Друзья Германа,Undirected,Таня,1
+Друзья Германа,Undirected,Шаманова,1
+Дуся,Undirected,Михей,1
+Дуся,Undirected,Оля,1
+Дуся,Undirected,Таня,4
+Дуся,Undirected,Шаманова,2
+Игнатов,Undirected,Таня,4
+Игнатов,Undirected,Хозяйка,1
+Михей,Undirected,Таня,1
+Михей,Undirected,Шаманова,1
+Оля,Undirected,Таня,1
+Парень,Undirected,Шаманова,1
+Таня,Undirected,Хозяйка,1
+Таня,Undirected,Шаманова,3
